@@ -1,0 +1,52 @@
+[
+  {
+    "tytul": "Zrob zadanie z matematyki",
+    "tresc": "Zad 1,2,3,4 str 123",
+    "data": "01.12.2026"
+  },
+  {
+    "tytul": "Naucz sie slowek z angielskiego",
+    "tresc": "Nauczyc sie slowek z rozdzialu 3",
+    "data": "02.12.2026"
+  },
+  {
+    "tytul": "Przeczytaj lekture",
+    "tresc": "Przeczytac 20 stron lektury",
+    "data": "03.12.2026"
+  },
+  {
+    "tytul": "Zrob zadanie z polskiego",
+    "tresc": "Zad 5,6,7 str 45",
+    "data": "04.12.2026"
+  },
+  {
+    "tytul": "Przygotuj sie do sprawdzianu",
+    "tresc": "Powtorzyc material z biologii",
+    "data": "05.12.2026"
+  },
+  {
+    "tytul": "Napisz notatke z historii",
+    "tresc": "Zrobic notatke o II wojnie swiatowej",
+    "data": "06.12.2026"
+  },
+  {
+    "tytul": "Zrob zadanie z fizyki",
+    "tresc": "Rozwiazac zadania 1-5 str 67",
+    "data": "07.12.2026"
+  },
+  {
+    "tytul": "Przygotuj prezentacje",
+    "tresc": "Przygotowac prezentacje o wybranym kraju",
+    "data": "08.12.2026"
+  },
+  {
+    "tytul": "Powtorz chemie",
+    "tresc": "Powtorzyc wzory i reakcje chemiczne",
+    "data": "09.12.2026"
+  },
+  {
+    "tytul": "Oddaj projekt informatyczny",
+    "tresc": "Dokonczyc projekt i wyslac nauczycielowi",
+    "data": "10.12.2026"
+  }
+]
